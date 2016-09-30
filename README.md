@@ -1,0 +1,2 @@
+# newGitTest
+Familiarization tutorial
